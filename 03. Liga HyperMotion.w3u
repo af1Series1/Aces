@@ -1,0 +1,39 @@
+    {
+      	"name": "LA LIGA HYPERMOTION",
+      	"image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
+  	"url": "https://af1cionados.vercel.app/",
+      	"stations": 
+      		[
+        {
+          "name": "LaLiga HyperMotion (1080)(Elcano)",
+          "info": "4be0",
+          "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
+          "url": "acestream://87bb542f974b6b9e89d0f2e20ed6dc93426f4be0"
+        },
+        {
+          "name": "LaLiga HyperMotion (720)(Elcano)",
+          "info": "c8cd",
+          "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
+          "url": "acestream://a4f072c9b614323ac1258a175f868a909ea3c8cd"
+        },
+        {
+          "name": "LaLiga HyperMotion (FHD)(Shickat)",
+          "info": "fd1f",
+          "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
+          "url": "acestream://762b4a6ed2e70441b0374a64f25d8d6571b9fd1f"
+        },
+        {
+          "name": "LaLiga HyperMotion 2 (1080)(Elcano)",
+          "info": "71f8",
+          "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
+          "url": "acestream://709075831bf5c41ed0a20dfbd640aab6c28971f8"
+        },
+        {
+          "name": "LaLiga HyperMotion 3 (Elcano)",
+          "info": "724e",
+          "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
+          "url": "acestream://778d2f60bb7207addedcca0b9aed98f41529724e"
+        }
+
+      ]
+    }

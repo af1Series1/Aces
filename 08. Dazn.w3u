@@ -1,0 +1,121 @@
+{
+  "name": "DAZN",
+  "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+  "url": "https://af1cionados.vercel.app/",
+  "image": "https://i.postimg.cc/VvzPnpDF/Logo-Dazn-2.png",
+  "telegram": "Lista_AF1CIONADOS",
+  "info": "Lista recopilada de Ids. bY. Lukas",
+  "stations": 
+	[
+
+        {
+          "name": "DAZN 1 (FHD)(NewEra)",
+          "info": "9a0e",
+          "image": "https://i.postimg.cc/mDVtN6TZ/dazn1.png",
+          "url": "acestream://6538b79ce0da657d8455d1da6a5f342398899a0e"
+        },
+        {
+          "name": "DAZN 1 (FHD)(Sat)(NewEra)",
+          "info": "3fa9",
+          "image": "https://i.postimg.cc/mDVtN6TZ/dazn1.png",
+          "url": "acestream://50a8a13c474848d1efbd5586efdb5b6cdd173fa9"
+        },
+        {
+          "name": "DAZN 1 (FHD)(NewEra)",
+          "info": "9928",
+          "image": "https://i.postimg.cc/mDVtN6TZ/dazn1.png",
+          "url": "acestream://4141892f5df7d6474bf0279895ce02b7336c9928"
+        },
+        {
+          "name": "DAZN 1 (FHD)(NewEra)",
+          "info": "0bfa",
+          "image": "https://i.postimg.cc/mDVtN6TZ/dazn1.png",
+          "url": "acestream://6a1703a6bbe6110a1d27f35a41c88661e1740bfa"
+        },
+        {
+          "name": "DAZN 1 (1080)(ElCano)",
+          "info": "c07a",
+          "image": "https://i.postimg.cc/mDVtN6TZ/dazn1.png",
+          "url": "acestream://35c7f0c966ecde3390f4510bb4caded40018c07a"
+        },
+        {
+          "name": "DAZN 1 (720)(ElCano)",
+          "info": "d276",
+          "image": "https://i.postimg.cc/mDVtN6TZ/dazn1.png",
+          "url": "acestream://eb6ffec065b26259ad3d1811e0bbb0a5332ed276"
+        },
+        {
+          "name": "DAZN 1 (720)(Shickat)",
+          "info": "2b66",
+          "image": "https://i.postimg.cc/mDVtN6TZ/dazn1.png",
+          "url": "acestream://24f3cf821a16da93c1149e0ad3c2cc85bd5f2b66"
+        },
+        {
+          "name": "DAZN 2 (FHD)(NewEra)",
+          "info": "7a35",
+          "image": "https://i.postimg.cc/mDVtN6TZ/dazn1.png",
+          "url": "acestream://8b081c8afbd9beafc8c5fbf0115eb36eadb07a35"
+        },
+        {
+          "name": "DAZN 2 (FHD)(NewEra)",
+          "info": "e6d2",
+          "image": "https://i.postimg.cc/mDVtN6TZ/dazn1.png",
+          "url": "acestream://0f5402f75107112d59d924a5f381cfed33dbe6d2"
+        },
+        {
+          "name": "DAZN 2 (1080)(ElCano)",
+          "info": "3c9a",
+          "image": "https://i.postimg.cc/FKPjhxB6/dazn2.png",
+          "url": "acestream://ca923c9873fd206a41c1e83ff8fc40e3cf323c9a"
+        },
+        {
+          "name": "DAZN 2 (1080)(ElCano)",
+          "info": "8810",
+          "image": "https://i.postimg.cc/FKPjhxB6/dazn2.png",
+          "url": "acestream://a929eeec1268d69d1556a2e3ace793b2577d8810"
+        },
+        {
+          "name": "DAZN 2 (720)(ElCano)",
+          "info": "b8ab",
+          "image": "https://i.postimg.cc/FKPjhxB6/dazn2.png",
+          "url": "acestream://ae68a0835039fab28fd2314108fabd4fab33b8ab"
+        },
+        {
+          "name": "DAZN 3 [1080]",
+          "info": "a2e8",
+          "image": "https://i.postimg.cc/bNj2cMvJ/dazn3.png",
+          "url": "acestream://19cd05c7ae26f22737ae5728b571ca36abd8a2e8"
+        },
+        {
+          "name": "DAZN 3 FHD (New Era)",
+          "info": "8eb1",
+          "image": "https://i.postimg.cc/bNj2cMvJ/dazn3.png",
+          "url": "acestream://d641cd0fca0f467b3130754a091e2f4d22e68eb1"
+        },
+        {
+          "name": "DAZN 3 FHD (New Era)",
+          "info": "a4ea",
+          "image": "https://i.postimg.cc/bNj2cMvJ/dazn3.png",
+          "url": "acestream://3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea"
+        },
+        {
+          "name": "DAZN 4 [1080]",
+          "info": "3102",
+          "image": "https://i.postimg.cc/gJZr1qF8/dazn4.png",
+          "url": "acestream://4e83f23945ab3e43982045f88ec31daaa4683102"
+        },
+        {
+          "name": "DAZN 4 FHD (New Era)",
+          "info": "c1f0",
+          "image": "https://i.postimg.cc/gJZr1qF8/dazn4.png",
+          "url": "acestream://7e27e46c25d4308d16098d9dc67fcd8736e8c1f0"
+        },
+        {
+          "name": "DAZN 4 FHD (New Era)",
+          "info": "7f50",
+          "image": "https://i.postimg.cc/gJZr1qF8/dazn4.png",
+          "url": "acestream://75306ac6ffbe33b08c5c28487674f75f012c7f50"
+        }
+
+      ]
+    }

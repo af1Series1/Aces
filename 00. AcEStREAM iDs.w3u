@@ -1,0 +1,235 @@
+{
+  "name": "AcEStREAM iDs",
+  "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+  "url": "https://af1cionados.vercel.app/",
+  "image": "https://images3.alphacoders.com/595/595865.jpg",
+  "telegram": "Lista_AF1CIONADOS",
+  "info": "Lista recopilada de Ids. bY. Lukas, New Era, Shickat",
+  "groups": 
+    [
+
+    {
+      "name": "CANALES ESPAÑA",
+      "image": "https://i.postimg.cc/NfQ1LMZP/logo-spain.png",
+      "url": "",
+      "info": ""
+    },
+
+    {
+      "name": "LA LIGA EA SPORT",
+      "image": "https://i.postimg.cc/NM8kNBZq/La-Liga-New.png",
+      "url": "",
+      "info": ""
+    },
+
+    {
+      "name": "LA LIGA HYPERMOTION",
+      "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
+      "url": "",
+      "info": ""
+    },
+
+    {
+      "name": "LIGA DE CAMPEONES",
+      "image": "https://i.postimg.cc/NFLRGSbF/logo-champions.png",
+      "url": "",
+      "info": ""
+    },
+
+    {
+      "name": "MOVISTAR PLUS",
+      "image": "https://i.postimg.cc/FRkzqyqM/Logo-Movistar-Plus.png",
+      "url": "",
+      "info": ""
+    },
+
+    {
+      "name": "COPA DEL REY ESPAÑA",
+      "image": "https://i.postimg.cc/JhQsVDBW/coparey-new.png",
+      "url": "",
+      "info": ""
+    },
+
+    {
+      "name": "M DEPORTES",
+      "image": "https://i.postimg.cc/rmxMT8Rg/Logo-M-Deportes.png",
+      "url": "",
+      "info": ""
+    },
+
+    {
+      "name": "DAZN",
+      "image": "https://i.postimg.cc/VvzPnpDF/Logo-Dazn-2.png",
+      "url": "",
+      "info": ""
+    },
+
+    {
+      "name": "DAZN F1",
+      "image": "https://i.postimg.cc/CKmmK298/Logo-Dazn-F1.png",
+      "url": "",
+      "info": ""
+    },
+
+    {
+      "name": "MOVISTAR",
+      "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
+      "url": "",
+      "info": ""
+    },
+
+    {
+      "name": "TENNIS CHANNEL (HD)(NewLoop)",
+      "image": "https://i.postimg.cc/k4sFB1S7/tennis-channel-new.png",
+      "imageScale": "",
+      "info": "",
+      "stations": 
+      [
+        {
+          "name": "Tennis Channel",
+          "info": "23ac",
+          "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg",
+          "url": "acestream://039fae21c9e7e5214d3d898cba80863e37e623ac"
+        }
+      ]
+    },
+
+    {
+      "name": "MOVISTAR GOLF",
+      "image": "https://i.postimg.cc/qBYg9Qhb/movistar-golf-new.png",
+      "url": "",
+      "info": ""
+    },
+
+    {
+      "name": "EUROSPORT",
+      "image": "https://i.postimg.cc/W12JpHqR/logo-eurosport.png",
+      "url": "",
+      "info": ""
+    },
+
+    {
+      "name": "M #VAMOS",
+      "image": "https://i.postimg.cc/XNwR4GkG/logo-canal-vamos.png",
+      "url": "",
+      "info": ""
+    },
+
+    {
+      "name": "SPORT TV",
+      "image": "https://i.postimg.cc/QxBhsxCR/Logo-Sport-Tv.png",
+      "url": "",
+      "info": ""
+    },
+
+    {
+      "name": "PPVP",
+      "image": "",
+      "url": "",
+      "info": ""
+    },
+
+    {
+      "name": "ESPN SPORT",
+      "image": "https://i.postimg.cc/3JB8nbyw/logo-espn.png",
+      "url": "",
+      "info": ""
+    },
+ 
+    {
+      "name": "BT SPORTS [UK]",
+      "image": "https://i.postimg.cc/d1wL0wvF/Logo-Bt-Sport-new.png",
+      "url": "",
+      "info": ""
+    },
+
+    {
+      "name": "SKY SPORTS [UK]",
+      "image": "https://i.postimg.cc/Hs1Jjw2H/Logo-Sky-Sport.png",
+      "url": "",
+      "info": ""
+    },
+
+    {
+      "name": "VIAPLAY SPORTS [UK]",
+      "image": "https://i.postimg.cc/jdPL0ZGP/logo-viaplay.png",
+      "url": "",
+      "info": ""
+    },
+
+    {
+      "name": "BeIN SPORTS",
+      "image": "https://i.postimg.cc/HxFX3jyg/Logo-Bein-Sport.png",
+      "url": "",
+      "info": ""
+    },
+
+    {
+      "name": "ELEVEN SPORT",
+      "image": "https://i.postimg.cc/C18XcBQC/logo-Eleven-Sport.png",
+      "url": "",
+      "info": ""
+    },
+
+    {
+      "name": "EXTREME SPORTS",
+      "image": "https://i.postimg.cc/3NCP0Gkh/Logo-extreme-canal.png",
+      "url": "",
+      "info": ""
+    },
+ 
+    {
+      "name": "EUROSPORT 360",
+      "image": "https://i.postimg.cc/05LC4FY1/Euro-360-new.png",
+      "url": "",
+      "info": ""
+    },
+
+    {
+      "name": "RED BULL TV",
+      "image": "https://i.postimg.cc/8cmv0KdL/Redbull-Tv-new.png",
+      "url": "",
+      "info": ""
+    },
+
+    {
+      "name": "UFC",
+      "image": "https://i.postimg.cc/Hk6VCHsX/Fight-Sports-new.png",
+      "url": "",
+      "info": ""
+    },
+
+    {
+      "name": "NBA TV (US)",
+      "image": "https://i.postimg.cc/SKjPkzTN/Logo-NBA.png",
+      "imageScale": "",
+      "info": "",
+      "stations": 
+      [
+        {
+          "name": "Nba Tv (US)",
+          "info": "ed95",
+          "image": "https://i.postimg.cc/SKjPkzTN/Logo-NBA.png",
+          "url": "acestream://e72d03fb9694164317260f684470be9ab781ed95"
+        }
+      ]
+    }
+
+
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

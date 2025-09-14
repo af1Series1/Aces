@@ -1,0 +1,22 @@
+    {
+      "name": "LA LIGA TV BAR",
+      "image": "https://i.postimg.cc/ncTvcSw3/liga-bar.png",
+  	"url": "https://af1cionados.vercel.app/",
+      "info": "",
+      "stations": 
+      [
+        {
+          "name": "LaLiga Tv Bar (FHD)(Elcano)",
+          "info": "[SIN EMISION]",
+          "image": "https://i.postimg.cc/ncTvcSw3/liga-bar.png",
+          "url": "acestream://"
+        },
+        {
+          "name": "LaLiga Tv Bar (FHD)(Elcano)",
+          "info": "[SIN EMISION]",
+          "image": "https://i.postimg.cc/ncTvcSw3/liga-bar.png",
+          "url": "acestream://"
+        }
+
+      ]
+    }
