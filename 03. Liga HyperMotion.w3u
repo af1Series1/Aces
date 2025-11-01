@@ -1,9 +1,9 @@
     {
-      	"name": "LA LIGA HYPERMOTION",
-      	"image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
+    "name": "LA LIGA HYPERMOTION",
+    "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
   	"url": "https://af1cionados.vercel.app/",
-      	"stations": 
-      		[
+    "stations": 
+      	[
         {
           "name": "LaLiga HyperMotion (1080)(Elcano)",
           "info": "4be0",
@@ -37,3 +37,4 @@
 
       ]
     }
+
